@@ -71,4 +71,4 @@ nnFormer_predict -i "DATA_RAW_PATH/nnFormer_raw_data/Task999_BraTS2021/imagesTs/
 |   Model   |                            config                            |                            Params                            |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ASA_PRETRAIN  | [config](https://drive.google.com/file/d/1JTlocHD02UrqedwOFgdkdbySis3xUI0T/view?usp=sharing) | [google drive](https://drive.google.com/file/d/1oX6HYhxyVmltutjAmhyzTUl5aT526CQy/view?usp=sharing) |
-| ASA_SEGMENTATION | [config](https://drive.google.com/file/d/133aL_-jpNndLHKvgmC9hwskuvMzz9RXX/view?usp=sharing) | [google drive](https://drive.google.com/file/d/1xsIn5gauJNBf38BhQBV2Kvd8fJCzpGG7/view?usp=sharing) |
+| ASA_SEGMENTATION | [config](https://drive.google.com/file/d/133aL_-jpNndLHKvgmC9hwskuvMzz9RXX/view?usp=sharing) | [google drive](https://drive.google.com/file/d/12_0PahqUCZFtLMZLHnftv7FZkoDxYBOI/view?usp=sharing) |
