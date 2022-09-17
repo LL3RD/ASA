@@ -11,7 +11,7 @@ We test our code in `CUDA 10.2` and `pytorch 1.8.1`
 git clone 
 cd ASA_Pretrain
 pip install -r requirements.txt
-cd ASA_Segmentation
+cd ../ASA_Segmentation
 pip install -e .
 ```
 
@@ -38,7 +38,7 @@ export RESULTS_FOLDER_nnFormer=RESULT_FOLDER_PATH
 
 Download the BraTS Dataset from the [Challenge](http://braintumorsegmentation.org/).
 
-Then change the dataset path in `dataset_conversion\Task999_BraTS_2021.py` and run it to convert the dataset. 
+Then change the dataset path in `dataset_conversion/Task999_BraTS_2021.py` and run it to convert the dataset. 
 
 ```bash
 python dataset_conversion\Task999_BraTS_2021.py
